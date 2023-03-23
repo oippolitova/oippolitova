@@ -1,12 +1,12 @@
 # Olga Ippolitova
 [![Telegram](https://img.shields.io/badge/Telegram-1a3136?style=social&logo=telegram)](https://t.me/oippolitova)
-[![Gmail](https://img.shields.io/badge/Gmail-1a3136?style=social&logo=gmail)](https://www.linkedin.com/in/olga-ippolitova/)
+[![Gmail](https://img.shields.io/badge/Gmail-1a3136?style=social&logo=gmail)](mailto:ipp.olga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-1a3136?style=social&logo=linkedin)](https://www.linkedin.com/in/olga-ippolitova/)
 
 
 ## QA engineer
 
-Here is my [CV](https://docs.google.com/document/d/1uNp5s7ocXoJGJXIUdnFDcLpIdz4bqhO7_5yq5f91Xko/edit?usp=sharing)
+Here is my :arrow_right: [CV](https://docs.google.com/document/d/1uNp5s7ocXoJGJXIUdnFDcLpIdz4bqhO7_5yq5f91Xko/edit?usp=sharing)
 
 ## Manual testing (Web + Mobile)
 
