@@ -6,7 +6,7 @@
 
 ## QA engineer
 
-Here is my :arrow_right: [CV](https://docs.google.com/document/d/1uNp5s7ocXoJGJXIUdnFDcLpIdz4bqhO7_5yq5f91Xko/edit?usp=sharing)
+Here is my [:arrow_right: CV](https://docs.google.com/document/d/1uNp5s7ocXoJGJXIUdnFDcLpIdz4bqhO7_5yq5f91Xko/edit?usp=sharing)
 
 ## Manual testing (Web + Mobile)
 
@@ -46,4 +46,4 @@ Here is my :arrow_right: [CV](https://docs.google.com/document/d/1uNp5s7ocXoJGJX
 
 
 ## Certificates
-IT-Academy Tochka Vhoda - [certificate](/assets/сертификат.png)
+IT-Academy Tochka Vhoda - [certificate](/assets/certificate.png)
