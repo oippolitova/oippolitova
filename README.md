@@ -1,4 +1,4 @@
-# Olga Ippolitova
+# Olga Ippolitova (template)
 [![Telegram](https://img.shields.io/badge/Telegram-1a3136?style=social&logo=telegram)](https://t.me/oippolitova)
 [![Gmail](https://img.shields.io/badge/Gmail-1a3136?style=social&logo=gmail)](mailto:ipp.olga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-1a3136?style=social&logo=linkedin)](https://www.linkedin.com/in/olga-ippolitova/)
