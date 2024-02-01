@@ -46,4 +46,4 @@ Here is my [:arrow_right: CV](https://docs.google.com/document/d/1uNp5s7ocXoJGJX
 
 
 ## Certificates
-IT-Academy Tochka Vhoda - [certificate](/assets/certificate.png)
+Smartup School - [certificate](/assets/certificate.png)
